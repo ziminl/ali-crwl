@@ -1,3 +1,3 @@
 # ali-crwl
 
-alibaba crawling with pyppeteer. its faster than other. try dropshipping with it. 
+alibaba crawling for my own use and dev, with pyppetee. its faster than other. try dropshipping with it. 
